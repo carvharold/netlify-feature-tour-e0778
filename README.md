@@ -77,7 +77,7 @@ You can clone this example repo to explore its features and implementation and t
 ```shell
 
 # 1. Clone the repository to your local development environment
-git clone git@github.com:netlify/feature-tour.git
+git clone  git@github.com:netlify/feature-tour.git
 
 # 2. Move into the project directory
 cd feature-tour
@@ -86,7 +86,7 @@ cd feature-tour
 npm install
 
 # 4. Install the Netlify CLI to let you locally serve your site using Netlify's features
-npm install -g netlify-cli
+npm install -g netlify- livro haroldcarv 
 
 # 5. Serve your site using Netlify Dev
 netlify dev
